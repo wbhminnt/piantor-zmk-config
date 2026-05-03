@@ -141,7 +141,7 @@
             //                    | GUI |     | SPC | ENT |     | ALT |
 
             bindings = <
-&kp EXCL  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp QUESTION  &kp ASTRK  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp AMPS  &kp GRAVE  &trans  &kp HASH  &kp CARET  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp STAR  &kp AT  &kp SEMICOLON  &kp EQUAL  &kp UNDER  &kp SPACE  &kp ENTER  &kp RA(NUMBER_5)  &kp LESS_THAN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GREATER_THAN  &kp SLASH  &kp TILDE  &kp COMMA  &kp DOT  &kp MINUS  &kp PLUS  &kp PIPE  &kp COLON  &kp BACKSLASH  &kp AT  &trans  &trans  &trans
+&kp EXCL  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp QUESTION  &kp BACKSLASH  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp AMPS  &kp GRAVE  &trans  &kp HASH  &kp CARET  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp STAR  &kp COLON  &kp SEMICOLON  &kp EQUAL  &kp UNDER  &kp SPACE  &kp ENTER  &kp RA(NUMBER_5)  &kp LESS_THAN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GREATER_THAN  &kp SLASH  &kp TILDE  &kp COMMA  &kp DOT  &kp MINUS  &kp PLUS  &kp PIPE  &kp PERCENT  &kp BACKSLASH  &kp AT  &trans  &trans  &trans
             >;
         };
 
