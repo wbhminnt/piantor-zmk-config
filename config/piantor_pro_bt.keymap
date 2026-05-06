@@ -162,7 +162,7 @@
         extra_layer_1 {
             display-name = "EXTRA 1";
             bindings = <
-&trans  &trans  &trans  &kp RA(NUMBER_5)  &trans  &trans  &SleepDblTap  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LG(DOLLAR)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &kp RA(NUMBER_5)  &trans  &trans  &SleepDblTap  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DOLLAR  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
