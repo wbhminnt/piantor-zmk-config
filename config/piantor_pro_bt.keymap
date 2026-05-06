@@ -141,7 +141,7 @@
             //                    | GUI |     | SPC   | ENT |     | ALT |
 
             bindings = <
-&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSPC  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &kp LA(LG(NUMBER_5))  &trans  &bt BT_CLR  &rgb_ug RGB_TOG  &sys_reset  &bootloader  &studio_unlock  &kp LG(LEFT)  &kp LA(LEFT)  &kp LA(RIGHT)  &kp LG(RIGHT)  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSPC  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &kp LA(LG(NUMBER_5))  &trans  &bt BT_CLR  &rgb_ug RGB_TOG  &sys_reset  &bootloader  &studio_unlock  &kp LG(LEFT)  &kp LA(LEFT)  &kp LA(RIGHT)  &kp LG(RIGHT)  &trans  &trans  &trans  &trans  &trans  &trans  &mo 3  &trans
             >;
         };
 
@@ -155,7 +155,7 @@
             //                    | GUI |     | SPC | ENT |     | ALT |
 
             bindings = <
-&kp EXCL  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp QUESTION  &kp BACKSLASH  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp AMPS  &kp GRAVE  &BackspaceDblTabBoot  &kp HASH  &kp CARET  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp STAR  &kp COLON  &kp SEMICOLON  &kp EQUAL  &kp UNDER  &kp SPACE  &kp ENTER  &kp RA(NUMBER_5)  &kp LESS_THAN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GREATER_THAN  &kp SLASH  &kp TILDE  &kp COMMA  &kp DOT  &kp MINUS  &kp PLUS  &kp PIPE  &kp PERCENT  &kp BACKSLASH  &kp AT  &trans  &trans  &trans
+&kp EXCL  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp QUESTION  &kp BACKSLASH  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp AMPS  &kp GRAVE  &BackspaceDblTabBoot  &kp HASH  &kp CARET  &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp STAR  &kp COLON  &kp SEMICOLON  &kp EQUAL  &kp UNDER  &kp SPACE  &kp ENTER  &kp RA(NUMBER_5)  &kp LESS_THAN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GREATER_THAN  &kp SLASH  &kp TILDE  &kp COMMA  &kp DOT  &kp MINUS  &kp PLUS  &kp PIPE  &kp PERCENT  &kp BACKSLASH  &kp AT  &mo 3  &trans  &trans
             >;
         };
 
